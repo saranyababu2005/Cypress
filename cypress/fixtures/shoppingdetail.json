@@ -1,0 +1,5 @@
+{
+  "products" : ["Blackberry","iphone X"],
+  "quantity": ["5","3"],
+  "location": "India"
+}
